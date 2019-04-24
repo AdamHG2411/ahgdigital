@@ -2,35 +2,35 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'AHG Digital',
+  subtitle: 'Full-stack Software Engineer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Thoughts',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Adam Grider',
+    photo: '/adam.jpg',
+    bio: 'With a foundation of open communication, creative thinking, and the relentless pursuit of new skills, I develop polished apps and websites tailored to meet your needs and achieve your desired impacts.',
     contacts: {
-      email: '#',
+      email: 'adam.h.grider@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'ahgrider',
+      github: 'adamhg2411',
       rss: '#',
       vkontakte: '#'
     }
